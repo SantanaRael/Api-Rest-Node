@@ -1,6 +1,5 @@
-----API REST EM NODE.JS, EXPRESS E MONGODB ATLAS----
+Esta API REST é o resultado do meu aprendizado no curso da Alura, onde utilizei as tecnologias Node.js, Express e MongoDB Atlas. Com foco em funcionalidades de um CRUD (Create, Read, Update e Delete), explorei as melhores práticas de arquitetura de software, desenvolvendo rotas, controladores e modelos. Além disso, integrei a aplicação a um banco de dados MongoDB hospedado na nuvem para garantir escalabilidade e segurança.
 
-Essa é uma API REST que desenvolvi a partir o curso da Alura utilizando as Tecnologias Node.js, Express, MongoDB Altas e POSTMAN. com as funcionalidades de um CRUD (Create, Read, Update e Delete) e aprendi sobre boas praticas de arquitetura criando rotas, controladores, modelos e conectei a aplicação a um banco de dados MongoDB em nuvem.
+Nesse projeto, também empreguei o uso da biblioteca Mongoose para simplificar a interação com o MongoDB e o Nodemon para facilitar o desenvolvimento contínuo, permitindo atualizações automáticas da aplicação à medida que efetuava alterações.
 
-- Mongoose é uma biblioteca que faz conexão com o MongoDB.
-
+O resultado é uma API eficiente, construída com tecnologias de ponta e seguindo as melhores práticas de desenvolvimento de APIs REST.
